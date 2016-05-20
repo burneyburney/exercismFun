@@ -1,11 +1,8 @@
 var Bob = function() {};
 
-// passed 1
+
 Bob.prototype.hey = function(input) {
 
-
-
-    // no matter what return Whatever
     return "Whatever."
 
 };
